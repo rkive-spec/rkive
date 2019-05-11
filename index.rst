@@ -1,17 +1,10 @@
-Markdown test
+RKIVE PROJECT
 -------------
 
-Markdown files:
+Index:
 
 .. toctree::
    :glob:
 
-   markdown
-
-RST files:
-
-.. toctree::
-   :glob:
-
-   rst
-
+   rkive-draft
+   mobile-app-spec
