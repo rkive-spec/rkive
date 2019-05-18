@@ -1,6 +1,6 @@
 # RKIVE Mobile Application Specification
 
-RKIVE Mobile App spec
+RKIVE Mobile App UX/UI spec
 
 
 
@@ -119,9 +119,7 @@ RKIVE item
 
 > Sample View:
 >
-> ![](C:/Users/jun/Desktop/docs/rkive/res/images/link_view_demo1.png) ![](C:/Users/jun/Desktop/docs/rkive/res/images/link_view_demo2.png)
-
-
+> ![](./res/images/link_view_demo1.png) ![](./res/images/link_view_demo2.png)
 
 
 
